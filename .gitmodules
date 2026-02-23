@@ -4,3 +4,9 @@
 [submodule "app/src/main/cpp/extern/fmt"]
 	path = app/src/main/cpp/extern/fmt
 	url = https://github.com/fmtlib/fmt
+[submodule "app/src/main/cpp/extern/Dobb"]
+	path = app/src/main/cpp/extern/Dobb
+	url = https://github.com/jmpews/Dobby
+[submodule "app/src/main/cpp/extern/Dobby"]
+	path = app/src/main/cpp/extern/Dobby
+	url = https://github.com/jmpews/Dobby
